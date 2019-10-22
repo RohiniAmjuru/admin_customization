@@ -19,3 +19,5 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 Admin customizations can be viewed in http://127.0.0.1:8000/admin
+
+Independent admin page can be viewed in http://127.0.0.1:8000/shows-admin
